@@ -1,0 +1,81 @@
+$date
+	Sun Jul 19 10:21:38 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module test $end
+$var wire 2 ! state [1:0] $end
+$var wire 1 " out $end
+$var reg 1 # clk $end
+$var reg 1 $ inp $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+x$
+0#
+0"
+b0 !
+$end
+#5
+1$
+1#
+#10
+0#
+#15
+1#
+0$
+#20
+b1 !
+0#
+#25
+1#
+1$
+#30
+b10 !
+0#
+#35
+1#
+#40
+b0 !
+0#
+#45
+1#
+0$
+#50
+b1 !
+0#
+#55
+1#
+1$
+#60
+b10 !
+0#
+#65
+1#
+0$
+#70
+1"
+b11 !
+0#
+#75
+1#
+1$
+#80
+0"
+b10 !
+0#
+#85
+1#
+0$
+#90
+1"
+b11 !
+0#
